@@ -71,6 +71,15 @@ html {
 .social li a:hover { color: #85BF06; 
 }
 
+#subbut {
+  color:white;
+}
+
+#resume {
+  font-size:20px;
+  color:white;
+}
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
@@ -10439,6 +10448,7 @@ header.masthead .masthead-heading {
   margin-top: 1.5rem;
   margin-bottom: 0;
 }
+
 
 section#contact {
   background-color: #212529;
